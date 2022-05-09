@@ -1,1 +1,3 @@
-## Use Oracle SQL Deverloper to ber able to run all codes.
+## Use Oracle SQL Developer to be able to run all codes.
+
+# References
